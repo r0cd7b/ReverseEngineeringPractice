@@ -1,0 +1,273 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Netscape]
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator]
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Automation Protocols]
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Automation Shutdown]
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Automation Startup]
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Automation Viewers]
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Bookmark List]
+"File Location"="{USER_DIR}\\navigator\\program\\bookmark.htm"
+"Add URLs Under"="Top Level of Listing"
+"Start Menu With"="Entire Listing"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Cache]
+"Memory Cache Size"=dword:00000258
+"Disk Cache Size"=dword:00001388
+"Cache Dir"="{USER_DIR}\\navigator\\cache"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Cookies]
+"Cookie File"="{USER_DIR}\\navigator\\cookies.txt"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Fonts]
+"Proportional Family"="Times New Roman"
+"Proportional Base Size"=dword:0000000c
+"Fixed Family"="Courier New"
+"Fixed Base Size"=dword:0000000a
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\History]
+"History File"="{USER_DIR}\\navigator\\netscape.hst"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Images]
+"Dither"="yes"
+"Incremental Display"="yes"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Main]
+"Autoload Home Page"="yes"
+"Fancy FTP"="yes"
+"Fancy News"="no"
+"News RC"="{USER_DIR}\\navigator\\newsrc"
+"Home Page"="{HOMEPAGE}"
+"Anchor Underline"="yes"
+"Toolbar"="yes"
+"Title/URL bar"="yes"
+"Starter Buttons bar"="yes"
+"Display Inline Images"="yes"
+"Font Size"=dword:00000002
+"Security Color Bar"="yes"
+"Mozilla"="Good-3.0"
+"Install Directory"="{USER_DIR}\\navigator"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Main Window]
+"Left"=dword:0000002c
+"Top"=dword:0000002c
+"Right"=dword:0000032c
+"Bottom"=dword:000002bf
+"Show"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Network]
+"Max Connections"=dword:00000004
+"Use Async DNS"="yes"
+"TCP Buffer"=dword:00000400
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\News]
+"News Directory"="{USER_DIR}\\navigator\\news"
+"News Chunk Size"=dword:00000064
+"Sort News"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Page Setup]
+"left"=dword:000002d0
+"right"=dword:000002d0
+"top"=dword:000002d0
+"bottom"=dword:000002d0
+"Header"=dword:00000003
+"Footer"=dword:00000007
+"SolidLines"=dword:00000000
+"BlackText"=dword:00000000
+"BlackLines"=dword:00000000
+"Reverse"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Proxy Information]
+"Http_Poxy"=""
+"Ftp_Proxy"=""
+"News_Proxy"=""
+"Gopher_Proxy"=""
+"Wais_Proxy"=""
+"No_Proxy"=""
+"Http_PoxyPort"="0"
+"Ftp_ProxyPort"=dword:00000000
+"News_ProxyPort"=dword:00000000
+"Gopher_ProxyPort"=dword:00000000
+"Wais_ProxyPort"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Security]
+"Warn Entering"="yes"
+"Warn Leaving"="yes"
+"Warn Mixed"="yes"
+"Warn Insecure Forms"="yes"
+"Security Directory"="{USER_DIR}\\Navigator\\Security"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Services]
+"SOCKS_Server"=""
+"Socks Conf"=""
+"SMTP_Server"="mail.earthlink.net"
+"POP_Server"="mail.earthlink.net"
+"NNTP_Server"="news.earthlink.net"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Settings]
+"Blinking"="yes"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Suffixes]
+"audio/basic"="au,snd"
+"audio/x-aiff"="aif,aiff,aifc"
+"video/x-sgi-movie"="movie"
+"video/x-msvideo"="avi"
+"video/quicktime"="qt,mov"
+"video/mpeg"="mpeg,mpg,mpe"
+"text/richtext"="rtx"
+"text/plain"="txt"
+"text/html"="html,mdl,htm"
+"image/x-xpixmap"="xpm"
+"image/x-xbitmap"="xbm"
+"image/x-rgb"="rgb"
+"image/x-portable-pixmap"="ppm"
+"image/x-portable-graymap"="pgm"
+"image/x-portable-bitmap"="pbm"
+"image/x-portable-anymap"="pnm"
+"image/x-cmu-raster"="ras"
+"image/tiff"="tiff,tif"
+"image/jpeg"="jpeg,jpg,jpe"
+"image/gif"="gif"
+"audio/x-wav"="wav"
+"application/x-tar"=""
+"application/x-troff-man"="man"
+"application/x-sh"="sh"
+"application/x-latex"="latex"
+"application/x-csh"="csh"
+"application/rtf"="rtf"
+"application/postscript"="ai,eps,ps"
+"application/octet-stream"="exe,bin"
+"application/x-stuffit"="sit"
+"application/mac-binhex40"="hqx"
+"application/fractals"="fif"
+"application/x-zip-compressed"="zip"
+"application/x-gzip"="gz"
+"application/x-compress"="Z"
+"x-conference/x-cooltalk"="ICE"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Tool Bar]
+"Button Styles"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\URL History]
+"URL_1"="http://www.earthlink.net"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\User]
+"User_Organization"=""
+"Sig_File"=""
+"User_Name"="{TRUE_USER_NAME}"
+"User_Addr"="{SCREEN_USER_NAME}@earthlink.net"
+"Reply_To"="{SCREEN_USER_NAME}@earthlink.net"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\User Trusted External Applications]
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Viewers]
+"HTML"=""
+"Tn3270"=""
+"Telnet"=""
+"TYPE0"="x-world/x-vrml"
+"TYPE1"="x-conference/x-cooltalk"
+"x-conference/x-cooltalk"="{USER_DIR}\\Navigator\\CoolTalk\\cooltalk.exe"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Address Book]
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Compose Window]
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Java]
+"Enable Java"="yes"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Intl]
+"UnicodeConversionCharsetList"="iso-8859-1,windows-1250,windows-1251,iso-8859-7,iso-8859-9,Shift_JIS,euc-kr,gb2312,big5,koi8-r,adobe-symbol-encoding,x-dingbats"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Mail]
+"Ascend Mail"="no"
+"Auto quote"="yes"
+"Check Time"=dword:00000000
+"Default Cc"=""
+"Default Fcc"="{USER_DIR}\\NAVIGATOR\\Mail\\Sent"
+"Last Preference"=dword:00000000
+"Leave on server"="no"
+"Mail Directory"="{USER_DIR}\\NAVIGATOR\\Mail"
+"Max Size"=dword:00000000
+"POP Name"="{SCREEN_USER_NAME}"
+"POP Password"=""
+"Remember Password"="yes"
+"Sort Mail"=dword:00000000
+"Thread Mail"="no"
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Mail Window]
+"Left"=dword:00000084
+"Top"=dword:00000084
+"Bottom"=dword:0000029d
+"Right"=dword:00000384
+"Show"=dword:00000001
+"folderwidth"=dword:0000012c
+"folderheight"=dword:0000008a
+"folder"=dword:000000f2
+"unread"=dword:0000002a
+"total"=dword:00000010
+"folderpos"=dword:00000000
+"unreadpos"=dword:00000001
+"totalpos"=dword:00000002
+"subject"=dword:00000096
+"marked"=dword:00000010
+"read"=dword:00000010
+"author"=dword:00000096
+"date"=dword:00000075
+"subjectpos"=dword:00000003
+"markedpos"=dword:00000001
+"readpos"=dword:00000002
+"authorpos"=dword:00000000
+"datepos"=dword:00000004
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\News Window]
+"Left"=dword:0000006e
+"Top"=dword:0000006e
+"Bottom"=dword:00000287
+"Right"=dword:0000036e
+"Show"=dword:00000001
+"folderwidth"=dword:0000012c
+"folderheight"=dword:00000091
+"server"=dword:000000f2
+"subscribe"=dword:00000010
+"unread"=dword:0000002a
+"total"=dword:00000000
+"serverpos"=dword:00000000
+"subscribepos"=dword:00000001
+"unreadpos"=dword:00000002
+"totalpos"=dword:00000003
+"subject"=dword:00000096
+"marked"=dword:00000010
+"read"=dword:00000010
+"author"=dword:00000096
+"date"=dword:0000007d
+"subjectpos"=dword:00000003
+"markedpos"=dword:00000001
+"readpos"=dword:00000002
+"authorpos"=dword:00000000
+"datepos"=dword:00000004
+
+[HKEY_CURRENT_USER\Software\Netscape\Netscape Navigator\Bookmark Window]
+
+[HKEY_CURRENT_USER\Software\Netscape\Live3D]
+
+[HKEY_CURRENT_USER\Software\Netscape\Live3D\Main]
+"iVer"="Beta5"
+"System Directory"="{USER_DIR}\\navigator\\Live3D"
+
+[HKEY_CURRENT_USER\Software\Netscape\Live3D\Suffixes]
+"x-world/x-vrml"="wrl,wrz,flr"
+
+[HKEY_CURRENT_USER\Software\Netscape\Live3D\Viewers]
+"x-world/x-vrml"="browser-handle-promptuser"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Netscape]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Netscape\Netscape Navigator]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Netscape\Netscape Navigator\3.0b5]

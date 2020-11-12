@@ -1,0 +1,235 @@
+The GlobalCenter User Agreement
+
+    GlobalCenter agrees to provide and User agrees to receive access to
+the GlobalCenter Internet telnet or dial-up service according to the
+following terms and conditions:
+
+1.  All provisions of GlobalCenter's Service Agreement ("Agreement")
+    apply to the User's Principal Account and Associate Accounts billed
+    to the Principal Account.
+
+2.  The benefits or rights conferred by this agreement are
+    nontransferable. Use of GlobalCenter accounts is expressly limited
+    to the individual or business whose name appears on the account and
+    dependents of the account holder living at the same address.
+
+3.  User agrees to use the service in manner consistent with any and all
+    applicable laws. In the event that this account is not used in
+    accordance with all Applicable Laws including, but not limited to
+    Local, State or Federal Laws, GlobalCenter reserves the right to
+    cooperate  with all or any law enforcement agencies.
+
+4.  User agrees to follow the Acceptable Use Policy of any network user
+    connects to, including GlobalCenter's system.
+
+5.  If User is less than 18 years of age, Agreement must be signed by a
+    parent or legal guardian, who is responsible for all charges
+    related  to use of User's account(s).
+
+6.  Use of GlobalCenter servers for advertising or promotion of a
+    commercial product or service without a GlobalCenter Web Publishing
+    or Business account is prohibited.  Reselling of web space on the
+    GlobalCenter user server is prohibited.
+
+7.  User is responsible for all use of User's account(s) and the
+    confidentiality of passwords. GlobalCenter will suspend access or
+    change access to User's account(s) immediately upon notification by
+    User that his her password has been lost, stolen or otherwise
+    compromised. GlobalCenter is not liable for any usage and or charges
+    prior to GlobalCenter making the necessary account alteration.
+
+8.  User is responsible for all local and long-distance telephone
+    charges for connecting to GlobalCenter.  User is also responsible
+    for charges incurred by User's paging company when used in
+    conjunction with GlobalCenter.
+
+9.  User agrees to pay GlobalCenter all charges relating to the use of
+    User's account(s) according to rates and prices stated on said sales
+    order at the time of commencement, INCLUDING A ONE-TIME SIGNUP FEE.
+
+10. User is responsible for charges at the time the service is used and
+    GlobalCenter may apply the amount due to User's credit card at any
+    time.
+
+11. GlobalCenter reserves the right to change prices on 30 days notice
+    published online.
+
+12. GlobalCenter reserves the right to suspend access to service for
+    User's account(s) upon an indication of credit problems including
+    delinquent payments or rejection of any credit card charges.
+
+13. The GlobalCenter service is provided on an "as is, as available"
+    basis. No warranties, Expressed or implied, including, but not
+    limited to, those of merchantability or fitness for a particular
+    purpose, are made with respect to GlobalCenter or any information or
+    software therein. This in no way includes any reimbursement for
+    losses of income due to disruption of service by GlobalCenter or its
+    providers.
+
+14. Neither GlobalCenter nor its Information Providers are responsible
+    for any damages arising from User's use of GlobalCenter or by User's
+    inability to  use GlobalCenter service.
+
+15. GlobalCenter reserves to right to change without notice the
+    GlobalCenter service, including, but not limited to, access
+    procedures, hours of operation, menu structures, commands,
+    documentation, vendors and services offered.
+
+16. GlobalCenter is not responsible for User's personal files residing
+    on GlobalCenter servers. User is responsible for independent backup
+    of his her data stored on GlobalCenter.
+
+17. GlobalCenter reserves the right to delete User's personal files
+    after one or both parties terminates agreement.
+
+18. GlobalCenter reserves the right in its sole discretion to delete any
+    information stored on GlobalCenter servers by User. GlobalCenter and
+    its authorized representatives shall have the right, but shall not
+    be obligated, to edit publicly viewable information.
+
+19. User hereby agrees that any material submitted for publication on
+    GlobalCenter servers through user's account(s) does not violate or
+    infringe any copyright, trademark, patent, statutory, common law or
+    proprietary rights of others, or contain anything obscene or
+    libelous.  Software intended to facilitate any such violations or
+    infringements may not be stored on GlobalCenter servers.
+
+20. GlobalCenter, at its sole business judgment, may terminate this
+    membership Agreement immediately or suspend User's access to the
+    service upon any breach of this membership Agreement by User,
+    including, but not limited to, refusal or failure to pay for
+    services provided or by sole judgment of GlobalCenter that User may
+    be performing activities harmful to GlobalCenter or its Users,
+    employees, vendors, business relationships, or any other users of
+    the Internet.
+
+21. The following violations of "netiquette" are grounds for immediate
+    suspension of service pending investigation by GlobalCenter and will
+    result in termination of the account(s) the investigation determines
+    to have originated or transmitted these types of traffic.
+
+    (a) Posting a single article or substantially similar articles to
+        an excessive number of newsgroups (i.e., 20 or more) or
+        continued posting of articles which are off-topic (e.g., off-
+        topic according to the newsgroup charter or the article
+        provokes complaints from the regular readers of the newsgroup
+        for being off-topic).
+
+    (b) Sending unsolicited mass emailings (i.e., to more than 25
+        users) which provoke complaints from the recipients.
+
+    (c) Engaging in either (a) or (b) from a provider other than
+        GlobalCenter and using an account on GlobalCenter as a mail
+        drop for responses.
+
+    (d) Continued harrassment of other individuals on the Internet
+        after being asked to stop by those individuals and by
+        GlobalCenter.
+
+    (e) Impersonating another user or otherwise falsifying one's user
+        name in email, Usenet postings, on IRC, or with any other
+        Internet service.  (This does not preclude the use of
+        nicknames in IRC or the use of anonymous remailer services.)
+
+    (f) Use of IRC "bots" on GlobalCenter, whether on our IRC server
+        or any other.  Such software may not be stored on
+        GlobalCenter servers.
+
+22. Users whose accounts are terminated for any of the above infractions
+    are also responsible for the cost of labor to clean up and respond
+    to complaints incurred by GlobalCenter.
+
+23. This document and the rights and duties of the parties shall be
+    governed by and interpreted according to the laws of the State of
+    Arizona.
+
+24. GlobalCenter may modify these terms and conditions upon notice
+    published online via GlobalCenter. User's use of GlobalCenter
+    services after such notice shall constitute User's acceptance of the
+    modifications to this Agreement.
+
+25. Non-enforcement of any section of this Agreement does not constitute
+    consent and GlobalCenter reserves the right to enforce this
+    Agreement at its sole discretion.
+
+26. If any one or more paragraphs in this Agreement is found to be
+    unenforceable or invalid, User's and GlobalCenter's agreement on all
+    other paragraphs shall remain valid.
+
+27. Monthly service charges must be paid on a timely basis to maintain
+    User's membership privileges.  Monthly service charges will continue
+    regardless of your use unless and until you notify us in writing
+    that you wish to cancel your membership, which you may do at any
+    time, unless bound by a specific term or agreement.  Payments more
+    than 15 days late may be assessed a 5% late payment charge.
+
+28. When paying by check, User expressly authorizes GlobalCenter to
+    debit User's checking account for the amount of a check returned
+    unpaid by User's bank, plus up to a $25 returned check fee.
+
+29. The User is in default of this Contract if: (1) any User covered by
+    this contract fails to obey any present or future GlobalCenter rule
+    or regulation; or (2) GlobalCenter does not receive a monthly
+    payment on or before its due date; or (3) any material statement by
+    the User in this contract is false.
+
+30. Failure to use this account(s) does not relieve the User of payment
+    obligations, except as specifically provided in this contract.
+
+31. In the event the User defaults on this contract, GlobalCenter may
+    suspend or revoke the User's membership privileges and the User may
+    have to reapply for membership at the price GlobalCenter is charging
+    to new members. The User agrees to pay GlobalCenter's reasonable
+    attorney's fees and court costs, where permitted, in collecting the
+    amount remaining in the User's contract as stated in the sales
+    order.
+
+32. Communication systems are subject to degradation of service from
+    phenomena such as so-called "Line-Noise" interference and other
+    causes beyond the reasonable control of GlobalCenter.
+
+33. GlobalCenter may assign this order, its rights hereunder, and its
+    ownership of said service and commitment at any time without notice.
+
+34. In addition to any price specified herein, User shall pay the gross
+    amount of any present or future sales, use, excise, value added or
+    other similar taxes applicable to the price, sales or delivery of
+    any products or services furnished here under or to their use by
+    customer.
+
+35. GlobalCenter reserves the right to terminate or change priority of
+    any process started by said user.
+
+36. GlobalCenter reserves the right to collect damages (software,
+    hardware and labor) if any harm is done to GlobalCenter which
+    requires repair or reconfiguration of any kind.
+
+37. GlobalCenter may offer a trial period during which the User may
+    cancel membership without incurring any costs.  It is the
+    responsibility of the User to contact GlobalCenter to cancel during
+    the trial period and receive verification that cancellation has
+    occurred.  Failure to use the account(s) does not constitute
+    cancellation.
+
+38. GlobalCenter may offer credits to users who refer additional users
+    who sign up for and keep GlobalCenter accounts through at least one
+    billing cycle, provided that the new users signing up mention at the
+    time of signup the login name or accounting ID number of the user
+    who referred them.
+
+39. GlobalCenter unlimited interactive usage dialup connections are not
+    intended to be full-time dedicated connections and will be
+    disconnected after 30 minutes of inactivity.  User agrees not to use
+    any automatic method to avoid disconnection, to keep the connection
+    active only when the User is actively using it, and not to provide
+    public information services over the connection.  GlobalCenter
+    reserves the right to impose a restriction on accounts it deems to
+    be in violation of these conditions.
+
+40. In the event of cancellation of service, User is responsible for the
+    full current month's charges unless cancellation is received by
+    GlobalCenter by the end of the 25th of the previous month.
+    Cancellation notice must be submitted by U.S. mail, email to
+    cancel@primenet.com from the GlobalCenter account, or faxed to 602-
+    416-9090. If you are submitting your cancellation via US Mail, you
+    must write ATTENTION: CANCELLATION on the envelope.

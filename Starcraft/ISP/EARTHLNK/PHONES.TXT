@@ -1,0 +1,482 @@
+999-999-9999	Please pick a number from list below	USA
+999-999-9999	------------------------------------------	USA
+800-853-7921	TotalAccess USA 800#	USA800
+999-999-9999	------------------------------------------	USA
+334-502-8036	AL - Auburn / Opelika	USA
+205-942-9890	AL - Birmingham	USA
+205-353-5029	AL - Decatur	USA
+334-673-8234	Al - Dothan	USA
+205-543-0504	AL - Gadsden	USA
+205-533-0409	AL - Huntsville	USA
+334-431-6706	AL - Mobile	USA
+334-223-1060	AL - Montgomery	USA
+205-330-5809	AL - Tuscaloosa	USA
+501-442-5203	AR - Fayetteville	USA
+501-782-5043	AR - Fort Smith	USA
+501-375-1590	AR - Little Rock	USA
+501-534-2288	AR - Pine Bluff	USA
+602-640-6096	AZ - Phoenix	USA
+520-620-0872	AZ - Tucson	USA
+510-214-0563	CA - Alameda	USA
+714-410-0135	CA - Anaheim	USA
+818-473-0135	CA - Arcadia	USA
+805-861-0826	CA - Bakersfield	USA
+510-982-1757	CA - Berkley	USA
+818-227-9548	CA - Canoga Park	USA
+619-710-0582	CA - Carlsbad	USA
+916-891-1086	CA - Chico	USA
+209-291-0167	CA - Clovis	USA
+310-361-0135	CA - Compton	USA
+510-826-0729	CA - Concord	USA
+714-517-9000	CA - Cypress	USA
+805-278-1684	CA - El Rio Ventura	USA
+510-771-0580	CA - Fremont	USA
+209-495-1007	CA - Fresno	USA
+310-767-1475	CA - Gardena	USA
+510-449-0339	CA - Livermore	USA
+213-622-0412	CA - Los Angeles	USA
+310-317-9832	CA - Malibu	USA
+415-687-0796	CA - Menlo Park	USA
+415-651-0903	CA - Millbrae	USA
+714-582-2126	CA - Mission Viejo	USA
+209-531-1416	CA - Modesto	USA
+213-266-0713	CA - Montebello	USA
+408-655-1195	CA - Monterey	USA
+805-375-9972	CA - Newbury Park	USA
+510-251-9031	CA - Oakland	USA
+909-391-7009	CA - Ontario	USA
+510-254-7549	CA - Orinda	USA
+805-240-9662	CA - Oxnard	USA
+760-320-2378	CA - Palm Springs	USA
+805-280-0135	CA - Palmdale	USA
+415-687-2187	CA - Palo Alto	USA
+415-481-0917	CA - Redwood City	USA
+916-225-8634	CA - Redding	USA
+909-343-0859	CA - Riverside	USA
+916-447-3613	CA - Sacramento	USA
+408-751-0530	CA - Salinas	USA
+909-889-0230	CA - San Bernardino	USA
+619-881-1662	CA - San Diego	USA
+415-659-2193	CA - San Francisco	USA
+408-273-1520	CA - San Jose	USA
+805-546-8060	CA - San Luis Obispo	USA
+415-653-2754	CA - San Mateo	USA
+415-472-0761	CA - San Rafael	USA
+510-557-1663	CA - San Ramon	USA
+805-892-3456	CA - Santa Barbara	USA
+408-492-1481	CA - Santa Clara	USA
+805-244-0135	CA - Santa Clarita	USA
+408-454-0327	CA - Santa Cruz	USA
+707-536-1690	CA - Santa Rosa	USA
+415-289-1317	CA - Sausalito	USA
+209-463-8859	CA - Stockton	USA
+408-990-2226	CA - Sunnyvale	USA
+805-480-1991	CA - Thousand Oaks	USA
+707-448-5608	CA - Vacaville	USA
+818-474-0135	CA - Van Nuys	USA
+209-635-0181	CA - Visalia	USA
+510-948-1609	CA - Walnut Creek	USA
+818-334-6758	CA - West Covina	USA
+719-386-1680	CO - Colorado Springs	USA
+303-575-6188	CO - Denver	USA
+970-282-2080	CO - Fort Collins	USA
+970-593-3220	CO - Loveland	USA
+203-696-1586	CT - Bridgeport	USA
+860-947-7656	CT - Hartford	USA
+860-692-9057	CT - Hartford	USA
+203-497-8727	CT - New Haven	USA
+203-781-2619	CT - New Haven	USA
+203-441-0059	CT - New London	USA
+203-316-2947	CT - Stamford	USA
+203-462-3457	CT - Stamford	USA
+203-834-6730	CT - Wilton	USA
+202-478-0571	DC - Washington	USA
+302-571-8328	DE - Wilmington	USA
+941-746-8563	FL - Bradenton	USA
+813-465-9301	FL - Clearwater	USA
+904-255-0389	FL - Daytona Beach	USA
+813-573-0863	FL - Feathersound	USA
+954-486-7918	FL - Fort Lauderdale	USA
+941-477-5000	FL - Fort Myers	USA
+941-332-7323	FL - Fort Myers	USA
+561-462-0510	FL - Fort Pierce	USA
+352-371-1332	FL - Gainesville	USA
+904-353-2059	FL - Jacksonville	USA
+941-665-1506	FL - Lakeland	USA
+407-723-1064	FL - Melbourne	USA
+305-702-0000	FL - Miami	USA
+407-245-2969	FL - Orlando	USA
+904-872-2927	FL - Panama City	USA
+904-969-9884	FL - Pensacola	USA
+941-362-4985	FL - Sarasota	USA
+813-827-0117	FL - St. Petersburg	USA
+904-222-0204	FL - Tallahassee	USA
+813-277-9634	FL - Tampa	USA
+561-681-9506	FL - West Palm Beach	USA
+407-975-4600	FL - Winter Park	USA
+941-679-9638	FL - Winterhaven	USA
+912-430-0075	GA - Albany	USA
+706-208-0448	GA - Athens	USA
+404-965-2446	GA - Atlanta	USA
+706-821-0050	GA - Augusta	USA
+404-762-5160	GA - College Park	USA
+706-641-9942	GA - Columbus	USA
+912-765-9958	GA - Macon	USA
+912-651-9899	GA - Savannah	USA
+770-308-0620	GA - Smyrna	USA
+319-368-1500	IA - Cedar Rapids	USA
+319-388-5480	IA - Davenport	USA
+515-323-7000	IA - Des Moines	USA
+319-341-3020	IA - Iowa City	USA
+208-381-6880	ID - Boise	USA
+708-401-0000	IL - Bellwood	USA
+815-544-4438	IL - Belvidere	USA
+309-827-0536	IL - Bloomington	USA
+217-892-2269	IL - Champaign	USA
+312-453-0828	IL - Chicago	USA
+815-748-3932	IL - Dekalb	USA
+847-631-1672	IL - Elk Grove	USA
+312-984-1580	IL - Franklin	USA
+815-232-2426	IL - Freeport	USA
+630-203-1682	IL - Hinsdale	USA
+773-442-1520	IL - Irving	USA
+815-725-7702	IL - Joliet	USA
+847-990-0034	IL - Libertyville	USA
+630-282-0629	IL - Lombard	USA
+630-300-0650	IL - Naperville	USA
+847-400-1618	IL - Northbrook	USA
+815-874-0157	IL - Rockford	USA
+847-273-0608	IL - Schaumburg	USA
+847-745-0582	IL - Skokie	USA
+847-671-4033	IL - Schiller Park	USA
+217-483-7404	IL - Springfield	USA
+773-873-0070	IL - Stewart	USA
+708-929-0065	IL - Summit	USA
+847-777-0624	IL - Wheeling	USA
+217-373-2680	IL - Urbana	USA
+812-323-4330	IN - Bloomington	USA
+219-522-9612	IN - Elkhart	USA
+812-433-3080	IN - Evansville	USA
+219-439-0840	IN - Fort Wayne	USA
+219-977-2330	IN - Gary	USA
+317-972-6640	IN - Indianapolis	USA
+765-772-2025	IN - Lafayette	USA
+765-935-2965	IN - Richmond	USA
+219-633-4827	IN - South Bend	USA
+812-238-5600	IN - Terre Haute	USA
+219-762-8346	IN - Valparaiso	USA
+317-986-9601	IN - Westfield	USA
+316-694-0036	KS - Hutchinson	USA
+913-838-1860	KS - Lawrence	USA
+913-368-9804	KS - Topeka	USA
+316-337-0198	KS - Wichita	USA
+606-329-1807	KY - Ashland	USA
+502-783-8200	KY - Bowling Green Clarksville	USA
+606-258-2178	KY - Lexington	USA
+502-584-1710	KY - Louisville	USA
+318-477-4925	LA - Lake Charles	USA
+504-383-6126	LA - Baton Rouge	USA
+504-853-0413	LA - Houma	USA
+318-262-0039	LA - Lafayette	USA
+318-322-2121	LA - Monroe	USA
+504-525-3564	LA - New Orleans	USA
+318-686-2577	LA - Shreveport	USA
+508-964-0651	MA - Billerica	USA
+617-531-5304	MA - Boston	USA
+617-380-3400	MA - Braintree	USA
+617-992-0579	MA - Brookline	USA
+508-895-8600	MA - Brockton	USA
+617-852-0607	MA - Burlington	USA
+617-221-0500	MA - Burlington	USA
+617-588-1641	MA - Cambridge	USA
+508-371-5300	MA - Concord	USA
+508-739-5000	MA - Danvers	USA
+508-861-0645	MA - Framingham	USA
+508-974-2000	MA - Lawrence	USA
+617-778-0831	MA - Lexington	USA
+617-480-0571	MA - Malden	USA
+617-658-0770	MA - Medford	USA
+508-961-1300	MA - New Bedford	USA
+617-831-0579	MA - Newton	USA
+617-249-0571	MA - Quincy	USA
+413-846-4500	MA - Springfield	USA
+617-663-1563	MA - Waltham	USA
+508-421-3000	MA - Worcester	USA
+410-263-3325	MD - Annapolis	USA
+410-246-8024	MD - Baltimore	USA
+410-638-0219	MD - Bel Air	USA
+301-663-8403	MD - Frederick	USA
+410-487-0001	MD - Glenburnie	USA
+301-337-0662	MD - Gaithersburg	USA
+301-665-1216	MD - Hagerstown	USA
+410-341-0278	MD - Salisbury	USA
+207-842-1300	ME - Portland	USA
+313-585-0041	MI - Ann Arbor	USA
+517-667-6121	MI - Bay City	USA
+313-957-1268	MI - Belleville	USA
+810-574-0259	MI - Centerline	USA
+313-989-0922	MI - Detroit	USA
+810-957-0588	MI - Farmington	USA
+810-768-7980	MI - Flint	USA
+616-235-9246	MI - Grand Rapids	USA
+517-783-0809	MI - Jackson	USA
+616-226-8589	MI - Kalamazoo	USA
+517-267-7900	MI - Lansing	USA
+517-837-1394	MI - Midland	USA
+517-773-1838	MI - Mt. Pleasant	USA
+616-727-1913	MI - Muskegon	USA
+810-365-0543	MI - Pontiac	USA
+810-614-3580	MI - Royal Oak	USA
+517-755-8725	MI - Saginaw	USA
+810-936-8823	MI - Southfield	USA
+810-819-0779	MI - Warren	USA
+313-629-0545	MI - Wayne	USA
+218-720-5960	MN - Duluth	USA
+612-317-9260	MN - Minneapolis	USA
+612-321-7960	MN - Minneapolis	USA
+320-202-3000	MN - St. Cloud	USA
+612-223-7560	MN - St. Paul	USA
+573-814-0200	MO - Columbia	USA
+314-940-3200	MO - Harvester	USA
+417-627-1090	MO - Joplin	USA
+816-502-0200	MO - Kansas City	USA
+314-980-2410	MO - O Fallon	USA
+417-875-6902	MO - Springfield	USA
+314-213-7700	MO - St. Louis	USA
+601-863-3593	MS - Biloxi / Gulfport	USA
+601-264-6681	MS - Hattiesburg	USA
+601-956-3883	MS - Jackson	USA
+601-355-4521	MS - Jackson	USA
+601-934-2180	MS - Pascagoula	USA
+406-247-3000	MT - Billings	USA
+406-496-4080	MT - Butte	USA
+704-645-6969	NC - Asheville	USA
+704-554-5680	NC - Charlotte	USA
+704-342-2422	NC - Charlotte	USA
+919-544-5741	NC - Durham	USA
+910-323-3915	NC - Fayetteville	USA
+919-736-8100	NC - Goldsboro	USA
+910-574-2663	NC - Greensboro	USA
+704-296-5750	NC - Monroe	USA
+919-876-8141	NC - Raleigh	USA
+919-872-6557	NC - Raleigh	USA
+919-558-2121	NC - Research Triangle	USA
+919-972-0919	NC - Rocky Mount	USA
+910-692-5130	NC - Southern Pines	USA
+704-586-8578	NC - Sylva	USA
+910-763-6609	NC - Wilmington	USA
+910-721-1212	NC - Winston Salem	USA
+701-271-7800	ND - Fargo	USA
+402-435-7915	NE - Lincoln	USA
+402-233-7768	NE - Omaha	USA
+603-644-0500	NH - Manchester	USA
+603-594-6600	NH - Nashua	USA
+609-484-3516	NJ - Atlantic City	USA
+609-321-1995	NJ - Cherry Hill	USA
+908-792-7770	NJ - English Town	USA
+609-278-3268	NJ - Ewing	USA
+201-794-1795	NJ - Fairlawn	USA
+201-343-8210	NJ - Hackensack	USA
+908-332-1001	NJ - Holmdel	USA
+201-371-2007	NJ - Irvington	USA
+609-346-3247	NJ - Laurel Springs	USA
+908-229-2761	NJ - Long Branch	USA
+908-933-1114	NJ - Long Branch	USA
+609-631-7980	NJ - Mercerville	USA
+609-667-0496	NJ - Moorestown	USA
+201-984-2407	NJ - Morristown	USA
+609-265-8511	NJ - Mount Holly	USA
+908-463-2172	NJ - New Brunswick	USA
+908-448-1071	NJ - New Brunswick	USA
+201-622-1592	NJ - Newark	USA
+201-279-1225	NJ - Patterson	USA
+908-442-6182	NJ - Perth Amboy	USA
+609-569-7800	NJ - Pleasantville	USA
+609-252-0301	NJ - Princeton	USA
+609-497-2463	NJ - Princeton	USA
+908-382-0026	NJ - Rahway	USA
+609-786-1079	NJ - Riverton	USA
+908-240-7151	NJ - Toms River	USA
+609-394-2970	NJ - Trenton	USA
+609-205-0040	NJ - Vineland	USA
+609-581-3555	NJ - White Horse	USA
+505-242-8973	NM - Albuquerque	USA
+505-438-3560	NM - Santa Fe	USA
+702-678-6486	NV - Las Vegas	USA
+702-324-4740	NV - Reno	USA
+518-435-2800	NY - Albany	USA
+607-762-1280	NY - Binghamton	USA
+516-231-2680	NY - Brentwood	USA
+716-857-6020	NY - Buffalo	USA
+914-789-8000	NY - Elmsford	USA
+516-577-2500	NY - Farmingdale	USA
+516-228-1980	NY - Garden City	USA
+516-468-5100	NY - Islip	USA
+607-266-4300	NY - Ithaca	USA
+212-655-3000	NY - Manhattan	USA
+914-933-2820	NY - Port Chester	USA
+914-451-4240	NY - Poughkeepsie	USA
+716-327-5670	NY - Rochester	USA
+315-338-6900	NY - Rome Utica	USA
+315-479-1430	NY - Syracuse	USA
+518-270-7020	NY - Troy	USA
+914-681-3900	NY - White Plains	USA
+330-253-9990	OH - Akron	USA
+513-621-2600	OH - Cincinnati	USA
+216-902-4858	OH - Cleveland	USA
+614-236-3605	OH - Columbus	USA
+937-640-8391	OH - Dayton	USA
+614-362-5200	OH - Deleware	USA
+614-228-7452	OH - Dublin	USA
+614-766-9196	OH - Dublin	USA
+614-387-4751	OH - Marion	USA
+330-722-6088	OH - Medina	USA
+419-824-7901	OH - Sylvania	USA
+419-246-2010	OH - Toledo	USA
+937-332-9058	OH - Troy	USA
+330-270-5600	OH - Youngstown	USA
+405-280-7940	OK - Oklahoma City	USA
+918-445-2622	OK - Tulsa	USA
+503-626-0996	OR - Beaverton	USA
+541-269-2702	OR - Coos Bay	USA
+541-302-0140	OR - Eugene	USA
+541-776-4510	OR - Medford	USA
+503-294-5600	OR - Portland	USA
+503-316-2070	OR - Salem	USA
+610-797-2140	PA - Allentown	USA
+814-941-1280	PA - Altoona	USA
+717-258-4462	PA - Carlisle	USA
+610-941-9491	PA - Conshohocken	USA
+814-453-2796	PA - Erie	USA
+412-853-9601	PA - Greensburg	USA
+717-720-0671	PA - Harrisburg	USA
+717-534-2792	PA - Hershey	USA
+610-630-4770	PA - King of Prussia	USA
+717-872-7887	PA - Lancaster	USA
+215-321-8100	PA - Levittown	USA
+610-725-9325	PA - Paoli	USA
+215-440-4205	PA - Philadelphia	USA
+215-440-5580	PA - Philadelphia	USA
+412-394-2280	PA - Pittsburgh	USA
+610-736-3030	PA - Reading	USA
+717-961-1654	PA - Scranton	USA
+814-235-7670	PA - State College	USA
+717-825-2150	PA - Wilkes Barre	USA
+717-845-4650	PA - York	USA
+401-276-7700	RI - Providence	USA
+803-722-4079	SC - Charleston	USA
+803-799-8828	SC - Columbia	USA
+803-673-0446	SC - Florence	USA
+864-288-1702	SC - Greenville	USA
+864-233-6876	SC - Greenville	USA
+803-626-3853	SC - Myrtle Beach	USA
+864-967-2648	SC - Simpsonville	USA
+803-913-2102	SC - Myrtle Beach	USA
+803-773-1830	SC - Sumter	USA
+605-367-3553	SD - Sioux Falls	USA
+423-756-3630	TN - Chattanooga	USA
+901-422-4222	TN - Jackson	USA
+423-524-5333	TN - Knoxville	USA
+901-820-9490	TN - Memphis	USA
+615-733-0044	TN - Nashville	USA
+915-738-3100	TX - Abilene	USA
+972-560-0506	TX - Addison	USA
+806-324-4000	TX - Amarillo	USA
+512-464-0011	TX - Austin	USA
+281-427-2418	TX - Baytown	USA
+409-981-1200	TX - Beaumont	USA
+409-823-0117	TX - College Station	USA
+512-387-0405	TX - Corpus Christi	USA
+214-210-0645	TX - Dallas	USA
+915-496-9514	TX - El Paso	USA
+817-850-9253	TX - Fort Worth	USA
+972-890-0515	TX - Grand Prairie	USA
+817-421-0506	TX - Grapevine	USA
+210-428-7010	TX - Harlingen	USA
+713-300-0125	TX - Houston	USA
+972-891-0530	TX - Irving	USA
+210-764-4800	TX - Laredo	USA
+903-234-2700	TX - Longview	USA
+806-472-1003	TX - Lubbock	USA
+915-498-2003	TX - Midland	USA
+915-498-2004	TX - Odessa	USA
+972-881-0366	TX - Plano	USA
+972-367-0025	TX - Richardson	USA
+915-655-5424	TX - San Angelo	USA
+915-481-8100	TX - San Angelo	USA
+210-357-2849	TX - San Antonio	USA
+210-354-4059	TX - San Antonio	USA
+903-868-1614	TX - Sherman	USA
+281-403-6103	TX - Stafford	USA
+817-778-1025	TX - Temple	USA
+903-792-4914	TX - Texarkana	USA
+903-845-1909	TX - Tyler	USA
+817-299-2000	TX - Waco	USA
+713-625-9900	TX - Westheimer	USA
+801-399-1119	UT - Ogden	USA
+801-354-7960	UT - Provo	USA
+801-264-7940	UT - Salt Lake City	USA
+801-321-4980	UT - Salt Lake City	USA
+804-791-4306	VA - Danville	USA
+540-374-0571	VA - Fredricksburg	USA
+540-372-3058	VA - Fredricksburg	USA
+540-432-0816	VA - Harrisonburg	USA
+703-904-0600	VA - Herndon	USA
+703-779-1868	VA - Leesburg	USA
+804-947-9090	VA - Lynchburg	USA
+703-392-5494	VA - Manassas	USA
+757-423-8640	VA - Norfolk	USA
+757-547-1692	VA - Princess Anne	USA
+703-995-0509	VA - Reston	USA
+804-674-9183	VA - Richmond	USA
+540-857-0700	VA - Roanoke	USA
+757-221-7347	VA - Williamsburg	USA
+802-652-2600	VT - Burlington	USA
+802-786-7300	VT - Rutland	USA
+206-931-1380	WA - Auburn	USA
+206-339-9387	WA - Everett2	USA
+509-734-8201	WA - Kennewick	USA
+360-357-1091	WA - Olympia	USA
+509-332-5402	WA - Pullman	USA
+206-881-8022	WA - Redmond	USA
+206-812-1155	WA - Seattle	USA
+206-441-2636	WA - Seattle	USA
+509-328-0087	WA - Spokane	USA
+206-552-2134	WA - Tacoma	USA
+206-597-8996	WA - Tacoma	USA
+414-863-5901	WI - Green Bay	USA
+414-592-9060	WI - Green Bay	USA
+608-755-9420	WI - Janesville	USA
+608-252-6580	WI - Madison	USA
+414-227-1301	WI - Milwaukee	USA
+715-355-4128	WI - Wausau	USA
+304-353-7886	WV - Charleston	USA
+304-624-4023	WV - Clarksburg	USA
+304-522-0301	WV - Huntington	USA
+304-262-2708	WV - Martinsburg	USA
+304-291-3441	WV - Morgantown	USA
+304-234-0229	WV - Wheeling	USA
+307-633-2980	WY - Cheyenne	USA
+999-999-9999	---------------  Australia  -----------------	USA
+02-9381-1100	Syndey	USA
+999-999-9999	---------------  Canada  -----------------	USA
+403-781-5200	AB - Calgary	USA
+403-423-5600	AB - Edmonton	USA
+604-689-3602	BC - Vancouver	USA
+204-956-1440	MB - Winnipeg	USA
+902-422-5599	NS - Halifax	USA
+905-526-6810	ON - Hamilton	USA
+519-578-2741	ON - Kitchener	USA
+519-642-1812	ON - London	USA
+613-594-9044	ON - Ottawa	USA
+905-685-4155	ON - St. Catherines	USA
+416-363-9625	ON - Toronto	USA
+514-876-1183	QC - Montreal	USA
+418-692-5756	QC - Quebec	USA
+306-665-0222	SK - Saskatoon	USA
+999-999-9999	---------------  France  -------------------	USA
+1-4762-6262	Paris	USA
+999-999-9999	---------------  Hong Kong  -----------------	USA
+852-2584-1000	Hong Kong	USA
+999-999-9999	----------------  Japan  ----------------	USA
+03-5402-7300	Tokyo	USA

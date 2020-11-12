@@ -1,0 +1,70 @@
+                                IMPORTANT
+           READ THE INFORMATION BELOW
+Do NOT continue with the setup until you have done so.
+
+
+GENERAL NOTES
+-------------
+If you are on a Local Area Network (LAN), do NOT proceed 
+with this installation without first consulting your LAN 
+Administrator.  Running this setup may affect your network 
+settings.
+
+If you continue, the PrimeConnect Setup will next launch
+the Microsoft Internet Explorer Setup, which will install
+Internet software on your computer.
+
+After the installation, your computer will ask to restart. 
+Allow it to do so. This restart will most likely take
+several extra minutes.  Do NOT manually restart your
+computer.  What happens after the restart depends on
+whether you are running Windows 95 or Windows NT 4.0.
+
+
+WINDOWS 95
+----------
+If you already have MS Internet Explorer 4.0 installed on 
+your system, do NOT run this setup.  Click on Cancel, then 
+see the Windows 95 Read Me file (win95.txt) in the ReadMe
+folder of the CD-ROM for Manual Setup instructions.  You
+can get to the ReadMe folder of the CD-ROM with the
+Windows Explorer.  Do not attempt to access the CD-ROM
+through the My Computer icon.
+
+After your computer restarts, it will automatically dial
+out to access our online registration system.  You may see
+a window with the following properties listed:
+
+Username: Pgcguest
+Password: *****
+
+Do not change these settings unless you fail to connect.
+In that event, clear the password box and type in the word
+guest in all lowercase letters.
+
+
+WINDOWS NT 4.0
+--------------
+After your computer restarts, see the Windows NT 4.0 Read 
+Me file (nt4.txt) in the ReadMe folder of the CD-ROM for
+further instructions on setting up PrimeConnect for
+Windows NT 4.0.
+
+
+-------------------
+SYSTEM REQUIREMENTS
+------------------- 
+This version is intended for users of Microsoft(R) 
+Windows(R) 95 and Windows NT 4.0
+
+This release includes Microsoft Windows 95 / NT 4 Virtual 
+Machine (VM) for Java(TM). It supports the same feature set 
+available in Sun JDK 1.02.
+
+- PC with 486 or better (Pentium, Pentium Pro) processor
+- 8MB RAM required; 12MB RAM recommended
+- A VGA monitor or better
+- A mouse
+- A 14400 BPS (14.4) or faster modem
+- Microsoft Windows 95 or Microsoft Windows NT 4.0
+

@@ -1,0 +1,57 @@
+<!---------------------- Opening --------------------------------!>
+<HTML><HEAD><TITLE>Starcraft Technical Support FAQ</TITLE></HEAD>
+<BODY TEXT="#33CCFF" BGCOLOR="#000000" LINK="#FFFFFF" VLINK="#FF0000" ALINK="#FF0000">
+
+<!---------------------- Text Area --------------------------------!>
+
+<FONT SIZE=+2><CENTER><P><B>
+COMMON CONFIGURATIONS
+</B></P></CENTER></FONT>
+
+<P><Li>
+A PC with a PS/2 mouse, two serial ports, and no internal modem or other serial devices.
+Since the PS/2 style mouse, which is common on most modern machines, 
+does not plug into a serial port, there shouldn't be any IRQ conflicts with other serial devices.   
+Verify that there is no IRQ conflict between the two serial ports 
+(you don't have to worry about this if the COM ports are 1 and 2 or 3 and 4).  
+If everything checks out, this machine can be a router.
+</Li></P>
+
+<P><Li>
+A PC with a PS/2 mouse, two serial ports, and an external modem.
+This is very similar to the previous setup, except that the external modem uses a COM port 
+(i.e. unlike an internal modem that generates and uses its own COM port).  
+This machine can be used as a router if you disconnect the external modem.
+</Li></P>
+
+<P><Li>
+A PC with a PS/2 mouse, two serial ports, and an internal modem.
+Determine whether there is any resources conflict between the serial ports and the modem.  
+If the internal modem shares an IRQ with a COM port, or creates a conflict, 
+you need to resolve this by:
+</Li>
+
+<Ul><Li>
+a) Disabling the modem in Device Manager if it is a Plug and Play (PnP) modem 
+</Li>
+
+<Li>
+b) physically removing the modem card if the modem is not PnP.  
+If you are unsure on how to do any of the above, please contact your modem manufacturer. 
+This computer can only act as a router if there are no IRQ conflicts present.
+</Li></Ul></P>
+
+<P><Li>
+A PC with a serial mouse, two serial ports, and no internal modem or other serial devices.
+Since your mouse permanently occupies a serial port, this machine cannot act as a router, 
+and must instead be placed at the end of a daisy chain of connected computers.
+</Li></P>
+
+<P><Li>
+A PC with a serial mouse, two serial ports, and an internal modem.
+Since your mouse permanently occupies a serial port, this machine cannot act as a router, 
+and must instead be placed at the end of a daisy chain of connected computers.
+</Li></P>
+
+<!---------------------- Closing --------------------------------!>
+</BODY></HTML>

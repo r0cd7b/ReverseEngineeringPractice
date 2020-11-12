@@ -1,0 +1,148 @@
+
+MindSpring PipeLine+ version 2.6 for Windows 95
+
+Conflicts and Fixes
+
+* Runtime Error 367 : Cannot load or register custom control: ESRAS32.OCX
+* Error 691: Authentication Failure
+* Runtime Error 75
+* Error 602: Port already open
+* Error 502: You have no permission to talk
+* Could not log into the mail server. Check your username and password.
+* Could not retrieve usage stats...
+* Could not retreive message of the day...
+* Error 731: Protocol not configured
+* Rasapi32.dll
+
+--------------------------------------------------------------------------
+
+Runtime Error 367 : Cannot load or register custom control: ESRAS32.OCX
+
+	1  With MindSpring PipeLine+ closed, click Start, then click Run.
+	2  Type regsvr32 esras32.ocx then click OK.
+	3  Click OK. You should see the confirmation DLLRegisterServer 
+	   in esras32.ocx succeeded.
+	4  Restart Windows95.
+	5  If the install program does not auto-launch you will need to 
+	   launch it.  To do so:
+		Click on Start
+		Click on Run
+		Type "c:\pipeplus\bin\mssetup" without the quotes.
+		Press [Enter].
+	6  Make sure that your UserID is correct, that Mailbox has your 
+	   primary Mailbox name, and that Domain reflects your email address.
+
+  
+Error 691: Authentication Failure
+
+	This error indicates that either your UserID or its password are 
+	entered incorrectly into MindSpring PipeLine+.	To update your 
+	password in MindSpring PipeLine+
+
+	1  Open PipeLine+, and click Configure.
+	2  Verify the information in the User ID field. Remember to use 
+	   the correct letter case, and to differentiate between a zero 
+	   (0) and the letter O (o).
+	3  Click Login Password, and enter information as follows:
+
+	   Current Password:
+	   Leave blank.
+
+	   New Password:
+	   Type your password.
+
+	   Verify Password:
+	   Type your password again.
+
+	4  Click OK, then click OK again.
+
+  
+Runtime Error 75
+
+	This error usually results when the MindSpring Installer attempts 
+	to run MSSetup while other applications are active. If you receive 
+	this error, close all applications, including Norton Desktop, and 
+	any virus protection software, then run MSSetup.  To run MSSetup:
+
+	1 With MindSpring PipeLine+ closed, click Start, point to Programs, 
+	  then click MindSpring PipeLine+ v2.6-32.
+	2 Double-click MSSetup.
+	3 Complete the PipeLine+ Setup window. Make sure that your UserID 
+	  is correct, that Mailbox has your primary Mailbox name, and that 
+	  Domain reflects your email address.
+	4 Click OK.
+
+	Port disconnected due to hardware failure
+	This error indicates that your modem is not properly installed. You 
+	will need to un-install your current modem, reinstall it, then run 
+	MSSetup (see To run MSSetup).
+  
+
+Error 602: Port already open
+
+	This error occurs during connection, and indicates that another 
+	application has control of the port on which your modem is installed. 
+	If you receive this error, disable any non-MindSpring communications 
+	applications, including fax and voicemail applications. Then try to 
+	connect again. It may be necessary to restart your computer, if you 
+	receive this error after disabling other communications software.
+  
+
+Error 502: You have no permission to talk
+
+	This error appears most often when a MindSpring customer whose email 
+	address is mailbox@pipeline.com has news.mindspring.com selected as 
+	his or her news server, rather than news.pipeline.com (possibly as 
+	a result of accepting the default domain, "mindspring," during 
+	installation). This conflict can be changed in the PipeLine+ Setup 
+	window. See To run MSSetup.
+
+ 
+Could not log into the mail server. Check your username and password.
+Could not retrieve usage stats...
+Could not retreive message of the day...
+
+	MindSpring PipeLine+ is designed to accomplish three tasks immediately 
+	after a connection is established: check for mail waiting, check your 
+	account usage statistics, and display the MindSpring Daily Announcements. 
+	If you receive any one of the above messages, but are able to connect 
+	successfully (evidenced by the ability to load Web pages in Internet 
+	Explorer), chances are that your UserID or Mailbox, or Domain are not 
+	set correctly in MindSpring PipeLine+. 
+	
+	All user information, including your domain, can be set from the program 
+	MSSetup (see To run MSSetup).
+ 
+
+Error 731: Protocol not configured
+
+	We're still looking for the definitive set of circumstances in which this 
+	error occurs, but it appears to be related to failed installation of DUN 
+	or TCP/IP. As a remedy, we will need to remove Dial-Up Networking and 
+	MindSpring PipeLine+, then reinstall. To remove Dial-Up Networking
+
+	1 Click Start, then point to Settings and click Control Panel.
+	2 Double-click Add/Remove Programs.
+	3 Click the Windows Setup tab, and double-click Communications.
+	4 De-select Dial-Up Networking.
+	5 Click OK, then click OK again.
+
+	To un-install MindSpring PipeLine+
+
+	1 Click Start, then point to Programs and click 
+	  MindSpring PipeLine+ v2.6-32.
+	2 Double-click Uninstall MindSpring.
+	3 Click Yes.
+	4 Delete the Pipeplus folder. 
+	  Now you are ready to re-install MindSpring PipeLine+.
+
+  
+Rasapi32.dll
+
+	If you receive errors involving the file rasapi32.dll, first restart 
+	your computer and run MSSetup (see To run MSSetup). If the error still 
+	occurs, you will need to uninstall Dial-Up Networking (see To remove 
+	Dial-Up Networking), then run MSSetup once again.
+
+To receive the most current information, please visit:
+http://help.mindspring.com/modules/w95/fix/pipeplus.html

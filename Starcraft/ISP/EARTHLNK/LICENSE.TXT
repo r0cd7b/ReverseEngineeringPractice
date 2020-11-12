@@ -1,0 +1,272 @@
+EARTHLINK NETWORK, INC.  
+INTERNET ACCESS AGREEMENT 
+
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE YOU ACCESS THE SERVICE PROVIDED TO YOU BY EARTHLINK NETWORK, INC.  BY SIGNING THIS DOCUMENT, DOWNLOADING, OR USING THE TOTALACCESS(TM) SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS AGREEMENT, THE EARTHLINK NETWORK, INC. SOFTWARE LICENSE AGREEMENT, AND THE EARTHLINK NETWORK, INC. ACCEPTABLE USE POLICY.
+
+IF YOU DO NOT AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS BELOW, YOU MAY NOT ACCESS OR USE THE SERVICE.  YOU SHOULD NOT SIGN THIS AGREEMENT. RETURN THIS PRODUCT TO THE PLACE OF PURCHASE FOR A FULL REFUND OF THE PURCHASE PRICE PAID BY YOU OR CONTACT OUR OFFICES AS SPECIFIED IN SECTION 11 WITHIN 30 DAYS OF THE RECEIPT OF THIS DOCUMENT.
+
+	EarthLink Network, Inc. ("EarthLink") provides the Service, which is defined below in Section 1, to you subject to your compliance with all of the terms and conditions below, which are collectively referred to as the "Agreement".  This Agreement is intended to establish the terms and conditions of only the Service defined in Section 1.  Other services provided to you by EarthLink or by any of its affiliates will not be subject to the terms and conditions of this Agreement unless this Agreement is expressly incorporated into any other agreement regarding those services.
+
+
+1. Service
+1.1. The Service provided to you by EarthLink includes the following features:
+1.1.1. Internet access
+1.1.2. Electronic mail ("email") capability and the use of a single electronic mail address to enable you to send and receive email communications.
+1.1.3. Web site (up to 2 megabytes) on EarthLink's server.
+1.1.3.1. Only one free 2 megabyte web site is given to an EarthLink member.  A member with additional mailboxes is not entitled to additional free web sites.
+1.1.4. bLink, which is EarthLink's subscriber newsletter.
+1.2. Any means of identification assigned to you by EarthLink in order for you to use the Service is and will remain the property of EarthLink.  At EarthLink's sole discretion, this identification may be altered or replaced at any time.
+1.2.1. These means of identification include but are not limited to account usernames and email addresses.
+1.3. EarthLink makes no guarantees as to the continuous availability of the Service or any specific feature of the Service.  EarthLink reserves the right to change the Service at any time with or without notice.
+1.3.1. Features of the Service which are subject to change include, but are not limited to: access procedures, commands, documentation, hours of operation, menu structures, and vendors.
+
+2. Registration Requirements
+2.1. You must be at least 18 years old to register for this Service.  By indicating your acceptance to this Agreement, you also indicate that you meet this age requirement.
+2.1.1. Minors who access this Service are assumed to have parental or guardian consent before accessing this Service.
+2.2. You agree to provide EarthLink with accurate and complete billing information.  This information must include your legal name, address and telephone number.  Any changes to this information must be reported to EarthLink no later than 30 days after such change becomes effective.
+2.3. By indicating your acceptance to this Agreement, you agree that you will be responsible for all charges posted to your account until you cancel the account through contact with EarthLink's offices in one of the specified methods in Section 11.
+2.3.1. The cancellation process is considered complete upon your receipt of a confirmation number from EarthLink.
+2.3.2. Charges to your account stop accruing on the day you receive this confirmation number.  EarthLink does not issue pro rata fee refunds.
+
+3. Fees
+3.1. Any setup fee you are charged by EarthLink is nonrefundable.
+3.2. Unlimited Internet access is offered by EarthLink subject to the following limitations.
+3.2.1. Toll-free (1-800 access) is not included in this offer.  This service requires payment of additional hourly charges.  See the Rate Chart for full details.
+3.2.2. Special Offer accounts which have the monthly service charges waived do not include 1-800 or Canadian POP access.  Use of EarthLink's 1-800 or Canadian POP access services will include hourly charges as specified in the Rate Chart at http://www.earthlink.net
+3.2.3. Local access dialup numbers may not be available in all areas served by EarthLink.
+3.2.3.1. It is your responsibility to contact your local telephone company to determine if use of a particular EarthLink dialup number will cause you to incur toll charges.  EarthLink is not responsible for paying any long distance or toll charges incurred by you through your use of your EarthLink account.
+3.3. Current prices for EarthLink services are posted on a Rate Chart.  This chart may be found on the World Wide Web at http://www.earthink.net.  These prices may also be obtained by calling 1-800-395-8425.
+3.3.1. EarthLink reserves the right to change prices and institute new fees.  EarthLink will announce price increases or decreases online at the above site at least 30 days before such changes are to take effect.  These price changes may also be obtained by calling 1-800-395-8425.
+3.4. A service charge of $15.00 will be assessed to a member's account for each check that is returned to EarthLink for insufficient funds.  
+3.5. EarthLink dialup accounts are classified as delinquent if there is an unpaid balance at the beginning of a new accounting cycle.  If your account is still delinquent at the beginning of the next accounting cycle, your account may be suspended or canceled at EarthLink's sole discretion. 
+3.5.1. If your account is suspended, regular charges continue to accrue until you cancel your account.
+3.5.2. EarthLink may, at its sole discretion, charge a fee of $9.95 to reinstate a suspended account.
+3.6. Interest charges of 1% per month (or the highest rate permitted by law if lower than 1% per month) will accrue daily on any unpaid balance which is more than 30 days old.
+3.7. You agree to pay all Sales and Use Taxes, Duties, or Levies which are required by applicable law.
+3.8. You agree to pay all attorney and collection fees arising from efforts to collect any unpaid balance on your account.
+3.9. If you believe that EarthLink has billed you in error, you must contact the Customer Service Department within 60 days of the invoice or transaction date of the charge.  Refunds or adjustments will not be given for any charges which are more than 60 days old.
+3.9.1. In Section 11, you will find a listing of acceptable methods to use to contact the EarthLink Customer Service Department.
+
+4. Use of the Service
+4.1. You and any members of your household are the only individuals who are authorized to access the Service through your EarthLink account.  
+4.1.1. You must not permit any other individual or entity to access the Service through your account.  
+4.1.2. You must ensure that all authorized users of your account comply with all of the terms and conditions of this Agreement.
+4.1.3. You are responsible for maintaining the confidentiality of any and all passwords used by you or members of your household to access the Service.  
+4.1.4. You are responsible for all activities and charges assessed as a result of use of your passwords and account in connection with the Service. 
+4.1.4.1. However, EarthLink will not hold you responsible for activities and charges attributable to an unauthorized user's access to your account without the permission of an authorized user of your account, provided that both of the following conditions are satisfied:
+4.1.4.1.1. You must notify EarthLink within 24 hours of discovering any such unauthorized use of your account 
+4.1.4.1.2. The unauthorized use must not be attributable to the failure of any authorized user to exercise reasonable efforts to maintain the confidentiality of the account or password.
+4.2. You are responsible for all local and long distance telephone charges for connection to the Service by you and by those who access the Service through your account.  
+4.3. Except for software provided by EarthLink, you are responsible for providing all computer equipment and software necessary to access the Service.  
+4.3.1. You will be responsible for the maintenance of any equipment or software not provided by EarthLink.
+4.4. You agree not to use the Service or permit others to use the Service through your account in any way which violates any international, federal, state, or local law or regulation; subjects EarthLink to liability; or is in contravention of EarthLink's Acceptable Use Policy.  EarthLink reserves the right to modify the Acceptable Use Policy at any time after thirty days' prior notice.
+4.5. You agree to comply with all EarthLink security procedures and standards.
+4.6. You agree to be bound by the terms and conditions of the End User License Agreement for any software provided to you by EarthLink.
+
+5. Monitoring the Service; Disclosure of Member Information
+5.1. EarthLink has no obligation to monitor the Service.  
+5.2. EarthLink may monitor the Service electronically and may disclose information regarding your use of the Service.
+5.2.1. This disclosure may be made by EarthLink to satisfy laws, regulations or governmental requests; to operate the Service properly; to protect itself or its members.  
+5.2.2. EarthLink will not disclose member information to outside persons or entities for the purpose of soliciting EarthLink's members.
+5.3. YOU UNDERSTAND AND AGREE THAT EARTHLINK MAY PROVIDE YOUR NAME, SUBSCRIBER INFORMATION, AND INFORMATION REGARDING USE OF THE SERVICE BY YOU AND OTHERS WHO HAVE ACCESS TO THE SERVICE THROUGH YOUR ACCOUNT TO THIRD PARTIES.
+5.4. In its sole discretion, EarthLink reserves the right to remove or to refuse to post any information or materials, in whole or in part, which are unacceptable, undesirable, or in violation of this Agreement.
+
+
+6. No Warranties Provided by EarthLink
+6.1. Except for certain products and services specifically identified as being offered by EarthLink, neither EarthLink nor any of its affiliates controls any information, products, or services on the Internet.
+6.1.1. Except for such EarthLink-identified content, all merchandise, information, and services offered, made available, or are accessible on the Internet are by third parties who are not affiliated with EarthLink or its affiliates.  
+6.2. YOU ASSUME TOTAL RESPONSIBILITY AND RISK FOR USE OF THE SERVICE AND THE INTERNET BY YOU OR AUTHORIZED USERS ON YOUR ACCOUNT.  
+6.3. NEITHER EARTHLINK NOR ITS AFFILIATES MAKE ANY EXPRESS OR IMPLIED WARRANTIES, REPRESENTATIONS, OR ENDORSEMENTS INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE, NON-INFRINGEMENT, OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE REGARDING ANY MERCHANDISE, INFORMATION, OR SERVICE PROVIDED THROUGH ANY EARTHLINK SERVICE OR ON THE INTERNET GENERALLY.  
+6.3.1. NEITHER EARTHLINK NOR ITS AFFILIATES SHALL BE LIABLE FOR ANY COSTS OR DAMAGE ARISING DIRECTLY OR INDIRECTLY FROM ANY SUCH TRANSACTION.  
+6.3.2. IT IS SOLELY YOUR RESPONSIBILITY TO EVALUATE THE ACCURACY, COMPLETENESS, AND USEFULNESS OF ALL OPINIONS, ADVICE, SERVICES, AND OTHER INFORMATION, AND THE QUALITY AND MERCHANTABILITY OF ALL MERCHANDISE  PROVIDED THROUGH THE SERVICE OR ON THE INTERNET GENERALLY.
+6.4. THE INTERNET CONTAINS UNEDITED MATERIALS, SOME OF WHICH ARE SEXUALLY EXPLICIT OR MAY BE OFFENSIVE TO YOU OR OTHERS ACCESSING THE SERVICE THROUGH YOUR ACCOUNT.  
+6.4.1. YOU ACCESS SUCH MATERIALS AND PERMIT OTHERS TO ACCESS SUCH MATERIALS THROUGH YOUR ACCOUNT AT YOUR OWN RISK.  
+6.4.2. EARTHLINK HAS NO CONTROL OVER AND ACCEPTS NO RESPONSIBILITY FOR SUCH MATERIALS.
+6.5. THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF TITLE, NON-INFRINGEMENT, OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  
+6.5.1. NO ADVICE OR INFORMATION GIVEN BY EARTHLINK, ITS AFFILIATES, ITS CONTRACTORS, OR THEIR RESPECTIVE EMPLOYEES SHALL CREATE A WARRANTY.  
+6.5.2. NEITHER EARTHLINK NOR ITS AFFILIATES WARRANTS THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE OR THAT ANY INFORMATION, SOFTWARE, OR OTHER MATERIAL ACCESSIBLE ON THE SERVICE IS FREE OF VIRUSES, WORMS, TROJAN HORSES, OR OTHER HARMFUL COMPONENTS.
+
+7. Your Remedies
+7.1. If you are dissatisfied with the Service or any of its terms, conditions, rules, policies, guidelines, or practices, your sole and exclusive remedy is to terminate this Agreement and discontinue using the Service by canceling your EarthLink account in one of the methods outlined in Section 11.
+7.2. UNDER NO CIRCUMSTANCES SHALL EARTHLINK, ITS AFFILIATES, OR ITS CONTRACTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES THAT RESULT IN ANY WAY FROM YOUR USE OF (OR THE USE OF OTHERS ACCESSING THE SERVICE THROUGH) YOUR ACCOUNT OR YOUR INABILITY TO USE THE SERVICE; ACCESS THE INTERNET OR ANY PART THEREOF, OR YOUR RELIANCE ON OR USE OF INFORMATION, SERVICES OR MERCHANDISE PROVIDED ON OR THROUGH THE SERVICE OR THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES, ERRORS, DEFECTS, DELAYS IN OPERATION OR TRANSMISSION, OR ANY FAILURE OF PERFORMANCE.
+
+8. Indemnity
+8.1. You agree to defend, indemnify, and hold EarthLink and its affiliates harmless from any and all liabilities, costs, and expenses, including reasonable attorneys' fees, related to or arising from:  
+8.1.1. Any violation of this Agreement by you or those who access the Service through your account.
+8.1.2. The use of the Service or Internet.
+8.1.3. The placement or transmission of any message, information, software, or other materials on the Internet by you or by those who have access to the Service through your account.
+
+9. Term of Agreement
+9.1. This Agreement is effective from your acceptance of these terms and conditions, which is indicated by your clicking the "Accept" button at the end of this Agreement or upon the first use of the Service through your account, whichever is first.
+9.2. If you are a current EarthLink member when this Agreement is activated, your continued use of the Service signals your acceptance of the terms of this Agreement.
+
+10. Termination of Agreement
+10.1. You may terminate this Agreement at any time.  The termination will be effective immediately upon your giving notice to EarthLink in one of the acceptable methods outlined in Section 11.
+10.2. EarthLink may terminate this Agreement:
+10.2.1. At any time upon 30 days prior notice.
+10.2.2. Immediately upon notice if:
+10.2.2.1. You, or any person who has access to the Service through your account, commit a material breach of this Agreement, including but not limited to a breach of any obligation imposed under Section 4 of this Agreement.
+10.2.2.2. You fail to pay any invoice within 60 days of the date of the invoice.
+10.3. Upon termination of this Agreement, all rights granted to you and authorized users in your household under this Agreement shall immediately cease and terminate.
+10.4. You must destroy or return to EarthLink all copies of software and documentation that you received from EarthLink.  
+10.5. Termination of this Agreement does not release you from the obligation to pay all accrued charges under Section 3 of this Agreement.  
+10.6. EarthLink's right to enforce the provisions of Sections 3, 5, 6, 7, 8, 11, and 12 shall survive termination of this Agreement.
+
+11. Notice
+11.1. These are the acceptable forms for you to communicate with EarthLink to change or cancel your EarthLink membership.  
+11.1.1. Electronic webform at http://www.earthlink.net/assistance.
+11.1.2. First-class registered or certified mail, return receipt requested.  US Mail must have adequate postage and be addressed as follows:
+11.1.2.1. EarthLink Network, Inc., Accounts Customer Service, 3100 New York Drive, Suite 201, Pasadena, California 91107
+11.1.3. Telephone calls must be directed to Accounts Customer Service at 1-800-395-8410.
+11.2. EarthLink may provide notice to you by the following methods:
+11.2.1. Electronic mail (email) at the address provided to you to access EarthLink's electronic mail (email) feature.
+11.2.2. A general posting to EarthLink's web site at http://www.earthlink.net.
+11.2.3. US Mail at the address you provided EarthLink in connection with your registration.
+
+11.3. All notices or other communications from EarthLink to you shall be deemed effective on the first (1st) calendar day following the date of electronic mailing or posting or on the fourth (4th) calendar day following the date of first-class mailing.
+
+12. Miscellaneous
+12.1. In the event that any portion of this Agreement is held to be unenforceable, the unenforceable portion shall be construed in accordance with applicable law as nearly as possible to reflect the original intentions of the parties.
+12.1.1. The remainder of the provisions shall remain in full force and effect.
+12.2. EarthLink's failure to insist upon or enforce strict performance of any provision of this Agreement shall not be construed as a waiver of any provision or right.  Neither the course of conduct between parties nor trade practice shall act to modify any provision of this Agreement.
+12.3. This Agreement shall be governed by and construed in accordance with the laws of the State of California, United States of America, without regard to its conflicts of law provisions.  
+12.4. Any cause of action you may have with respect to the Service must be commenced within one (1) year after the claim or cause of action arises or such claim or cause of action is barred.
+12.5. Neither this Agreement, nor any of your rights or obligations arising hereunder, shall be transferable by you to any third party without EarthLink's prior written consent.
+12.6. This Agreement, the Rate Chart, the Acceptable Use Policy, and the End-User License Agreement constitute the entire agreement between you and EarthLink with respect to the Service.  
+12.7. EarthLink reserves the right to alter, amend or modify  this Agreement at any time upon thirty (30) days notice. 
+12.7.1. No amendment or modification to this Agreement by you shall be valid or binding on EarthLink unless made in writing and signed by both parties.
+12.8. Under California Civil Code Section 1789.3, California subscribers  are entitled to the following specific consumer rights information:
+12.8.1. Current rates for using the Service may be obtained by consulting the Rate Chart online at http://www.earthlink.net or by calling 1-800-395-8425.  
+12.8.2. EarthLink reserves the right to change rates or to institute new charges at any time upon thirty (30) days prior notice, as provided in Section 3 of this Agreement.
+12.8.3. The Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs may be contacted in writing at 1020 N. Street, #501, Sacramento, CA 95814 or by telephone at 1-916-445-1254. 
+	
+EarthLink Network TotalAccess(TM) is a trademark of EarthLink Network, Inc.
+EarthLink Network(R) is a registered trademark of EarthLink Network, Inc.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EarthLink Network TotalAccess(TM)
+Software License Agreement
+
+
+CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS OF THIS AGREEMENT.  BY INSTALLING AND USING THE EARTHLINK NETWORK TOTALACCESS(TM) SOFTWARE, YOU INDICATE YOUR ACCEPTANCE OF THE FOLLOWING TERMS AND CONDITIONS AND YOU AGREE TO BE BOUND BY ALL OF THEM.  IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS, DO NOT INSTALL OR USE THE EARTHLINK NETWORK TOTALACCESS(TM) SOFTWARE.
+
+THE EARTHLINK NETWORK TOTALACCESS(TM) SOFTWARE AND DOCUMENTATION ARE PROVIDED FOR USE ONLY (I) WITH THE INTERNET ACCESS OR INTRANET ACCESS SERVICE OFFERED BY EARTHLINK NETWORK, INC. ("EARTHLINK") IN CONJUNCTION WITH THE DISTRIBUTION OF THE EARTHLINK NETWORK TOTALACCESS(TM) SOFTWARE AND DOCUMENTATION AND (II) IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT.  NO RIGHT OR LICENSE IS GRANTED TO USE THE EARTHLINK NETWORK TOTALACCESS(TM) SOFTWARE, DOCUMENTATION, OR ANY COMPONENT OF THE EARTHLINK NETWORK TOTALACCESS(TM) SOFTWARE OR DOCUMENTATION WITH ANY OTHER INTERNET ACCESS OR INTRANET ACCESS SERVICE.
+
+THIS AGREEMENT CONSTITUTES THE COMPLETE AND EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN YOU AND EARTHLINK WITH RESPECT TO THE EARTHLINK NETWORK TOTALACCESS(TM) SOFTWARE.  THIS AGREEMENT SUPERSEDES ANY WRITTEN OR ORAL PROPOSAL , PRIOR AGREEMENT, OR OTHER COMMUNICATION RELATING TO THE SUBJECT MATTER OF THIS AGREEMENT.
+
+Section 1.  License Grant. Subject to the provisions contained herein and payment of applicable fees, EarthLink hereby grants to Customer ("You") a personal, non-exclusive, non-transferable and non-assignable license to install and use the accompanying versions of the proprietary EarthLink Network TotalAccess(TM) software in object code format, its associated documentation and any updates thereto ("Licensed Program") on a single computer of which You are the primary user ("Authorized System").  The Licensed Program may include one or more of the following programs: Apple Computer, Inc. MacTCP; Merit Network, Inc. MacPPP or etherPPP; Microsoft(R) Internet Explorer; Netscape(R) Navigator(; QUALCOMM Eudora-Light(R); Network TeleSystems, Inc. TCP/IP Software for Windows(R); and other software which may from time to time be included in the Licensed Program ("Software").  You agree to use the Licensed Program solely in conjunction with EarthLink's Internet Service and for no other purpo
+se.  EarthLink may modify the Licensed Program at any time for any reason.  You agree to use only the most recent version of the Licensed Program and destroy or return to EarthLink at its request any superseded version of the Licensed Program.
+
+Section 2.  Intellectual Property Rights.  You acknowledge and agree that the Licensed Program constitutes confidential and proprietary information of EarthLink and EarthLink's licensors and embodies trade secrets and intellectual property protected under United States copyright and other laws and international treaty provisions.  You further acknowledge that all right, title, and interest in and to the Licensed Program, including associated intellectual property rights, are and shall remain with EarthLink and EarthLink's licensors. You agree not to translate, decompile, reverse engineer, disassemble, modify, reproduce, rent, lease, lend, distribute, remarket or otherwise dispose of the Licensed Program or any part thereof. You agree not to remove, obscure or alter any notice of patent, copyright, trademark, trade secret or other proprietary right in the Licensed Program. You may not duplicate the Licensed Program except to make one (1) copy of the Licensed Program solely for Your
+ backup purposes.  Such backup copy shall include all copyright and other proprietary notices contained in or on the original Licensed Program and shall be subject to all of the terms of this Agreement.
+
+Section 3.  Term; Termination.  This Agreement and the license hereunder shall be effective from Your first installation or use of the Licensed Program. This Agreement automatically ends upon the termination for any reason of the EarthLink Network Internet Access Agreement between EarthLink and You.  In addition, if EarthLink in its sole judgment believes that the Licensed Program is being used by You for a purpose not approved by EarthLink, that EarthLink or EarthLink licensors' rights are being jeopardized or that You are in default under this Agreement or any other agreement between You and EarthLink, EarthLink may immediately terminate this Agreement.  Upon termination or expiration of this Agreement, the license granted to You hereunder shall immediately terminate and You shall immediately cease to use the Licensed Program and destroy or, at EarthLink's request, return all copies of the Licensed Program to EarthLink.  EarthLink's right to enforce the provisions of Sections 2-
+9 of this Agreement shall survive termination of this Agreement.
+
+Section 4.  Exclusion of Warranties.  THE LICENSED PROGRAM IS LICENSED "AS IS."  NO WARRANTY, REPRESENTATION, CONDITION, UNDERTAKING OR TERM, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, AS TO THE CONDITION, QUALITY, DURABILITY, PERFORMANCE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE OR USE OF THE LICENSED PROGRAM IS GIVEN OR ASSUMED BY EARTHLINK, ITS LICENSORS OR ITS AGENTS AND ALL SUCH WARRANTIES, REPRESENTATIONS, CONDITIONS, UNDERTAKINGS AND TERMS ARE HEREBY EXCLUDED.  BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
+
+Section 5.  Limitation of Damages.  EARTHLINK, ITS LICENSORS AND ITS AGENTS SHALL IN NO EVENT BE LIABLE TO YOU FOR ANY DAMAGES (INCLUDING, WITHOUT LIMITATION, ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, LOST PROFITS, LOST SAVINGS OR, TO THE EXTENT ALLOWED BY APPLICABLE LAW, DAMAGES RESULTING FROM DEATH OR INJURY OF CUSTOMER OR ANYONE ELSE) ARISING OUT OF OR IN CONNECTION WITH THE INSTALLATION, USE, IMPROPER USE, OR INABILITY TO USE THE LICENSED PROGRAM AND/OR ANY INFORMATION OBTAINED THROUGH THE USE OF THE LICENSED PROGRAM, EVEN IF EARTHLINK HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, THE ABOVE EXCLUSIONS OF INCIDENTAL AND CONSEQUENTIAL DAMAGES MAY NOT APPLY TO YOU.
+
+Section 6.  Export Controls.  You may not download, use or otherwise export or re-export the Licensed Program or any underlying information or technology except in full compliance with all United States and other applicable laws and regulations.  In particular, but without limitation, neither the Licensed Program nor any underlying information or technology may be downloaded, used or otherwise exported or re-exported (i) into (or to a national or resident of) Cuba, Haiti, Iraq, Libya, Yugoslavia, North Korea, Iran, Syria or any other country to which the U.S. has embargoed goods or (ii) to anyone on the U.S. Treasury Department's list of specially Designated Nationals or the U.S. Commerce Department's Table of Deny Orders.  By downloading or using the Software, You represent and warrant that You are not located in, under the control of or a national or resident of any such country or on any such list.
+
+Section 7.  U.S. Government Restricted Rights.  Use, duplication or disclosure of the Licensed Program by the United States Government is subject to the restrictions set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software - Restricted Rights at 48 CFR 52-227.19, as applicable. Contractor/manufacturer is EarthLink Network, Inc., 3100 New York Boulevard, Pasadena, California, 91107.
+
+Section 8.  Third Party Beneficiaries. You agree that EarthLink's licensors including, but not limited to, Netscape Communications Corporation, Microsoft Corporation, Apple Computer, Inc. and Network TeleSystems, Inc., are direct and intended third party beneficiaries of this Agreement.  To the extent the software of other software licensors/providers is included in the Licensed Program, such software licensors/providers shall also be deemed third party beneficiaries of this Agreement.
+
+Section 9.  Miscellaneous.  The terms of this Agreement may not be amended or modified by You.  You may not assign its rights or delegate any of its duties under this Agreement, and any attempted assignment or delegation shall be void.  If one or more provisions of this Agreement shall be held to be invalid, illegal, or unenforceable, the validity, legality, and enforceability of the remaining provisions shall not be affected or impaired thereby. This Agreement shall be governed by the substantive laws of the State of California, United States of America, excluding (i) the conflicts of law provisions thereof, and (ii) the United Nations Convention on Contracts for the International Sale of Goods.  Any tax or duty that may be due or payable as a result of this Agreement or the license granted herein shall be paid by You.
+
+
+EarthLink Network TotalAccess(TM) is a trademark of EarthLink Network, Inc.
+EarthLink Network(R) is a registered trademark of EarthLink Network, Inc.
+Microsoft and Windows are registered trademarks of Microsoft Corporation
+Netscape Navigator is a trademark of the Netscape Communications Corporation.
+Netscape is a registered trademark of Netscape Communications Corporation.
+Eudora-Light is a registered trademark of the University of Illinois Board of Trustees, licensed to QUALCOMM Incorporated.  
+
+Copyright(c) 1997 EarthLink Network, Inc.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+EarthLink Network, Inc.
+Acceptable Use Policy
+
+
+1.	Introduction
+
+EarthLink is committed to and supports the free flow of information and ideas over the Internet.  EarthLink does not actively monitor nor does EarthLink exercise editorial control over the content of any web site, electronic mail transmission, mailing list, news group or other material created or accessible over EarthLink services.  However, EarthLink reserves the right to remove any materials EarthLink does become aware of that are, in EarthLink's sole discretion, potentially illegal, could subject EarthLink to liability, or violate this Acceptable Use Policy ("Policy").  Your violating this Policy may result in the suspension or cancellation of your EarthLink services.  You should read and interpret this Policy in conjunction with the EarthLink Network(R) Internet Access Agreement.
+
+2.	Policies
+
+The following are violations of EarthLink's acceptable use policies:
+
+2.1. Using a personal account for high volume or commercial use.  If you would like to receive high-volume or commercial services, please contact EarthLink's Business Sales Department at 1-800-395-8425 for information about establishing a commercial account.  Activities which are prohibited as high volume include, but are not limited to:
+
+2.1.1. Any mailbox exceeding 10MB may, at EarthLink's discretion, by transferred to a compressed temporary file or storage.  Members will be notified at that time with further information.  Sixty days after this notification, EarthLink reserves the right to delete the temporary file from the server.
+
+2.1.2. Exceeding 2MB of disk space for Free Web sites.  Any Free Web site exceeding 2MB will be suspended until the customer brings the disk space usage under 2MB.
+
+2.1.3. Exceeding 1GB of traffic in a one month period for free Web sites.  Any Free Web site exceeding 1 GB of traffic will be billed for the excess traffic  Charges will be determined according to EarthLink's Rate Chart, which is located at http://www.earthlink.net/company/rates.html.  These prices may also be obtained by calling 1-800-395-8425.
+
+2.2. Using EarthLink services for illegal purposes or in support of illegal activities.  In accordance with Section 5.2.1 of the Internet Access Agreement, EarthLink reserves the right to cooperate with legal authorities and/or injured third parties in the investigation of any suspected crime or civil wrong.  Activities which are prohibited as potentially illegal include, but are not limited to:
+
+2.2.1. Unauthorized copying of copyrighted material including, but not limited to, digitization and distribution of photographs from magazines, books, or other copyrighted sources, and copyrighted software.
+
+2.2.2. Exporting software or technical information in violation of U.S. export control laws.
+
+2.2.3. Posting or emailing of scams such as 'make-money-fast' schemes or 'pyramid/chain' letters.
+
+2.2.4. Threatening bodily harm or property damage to individuals or groups.
+
+2.2.5. Making fraudulent offers of products, items, or services originating from your account.
+
+2.2.6. Attempting to access the accounts of others, or attempting to penetrate security measures of EarthLink's or other entities' systems ("hacking"), whether or not the intrusion results in corruption or loss of data.
+
+2.3. Harassing others by 'mail-bombing' or 'news-bombing'.  'Mail-bombing' constitutes sending more than ten (10) similar mail messages to the same email address.  'News bombing' constitutes sending more than 10Mb of data to a newsgroup.
+
+2.3.1. Sending unsolicited email messages where the recipient objects to the content of the message or to the receipt of the message in general is also prohibited under this Section.
+
+2.3.1.1. Member acknowledges that he/she/it is expressly prohibited from utilizing EarthLink Network's(R) service, EarthLink Network's(R) equipment or any EarthLink Network's(R) electronic mail address in connection with the sending of the same or substantially similar unsolicited electronic mail message, whether commercial or not, to a large number of recipients. This prohibition extends to the sending of unsolicited mass mailings from another service which in any way implicates the use of EarthLink Network's(R) service, EarthLink Network's(R) equipment or any EarthLink Network's(R) electronic mail address.
+
+2.3.1.2. A message is unsolicited if it is posted in violation of a USENET or newsgroup charter and /or if it is sent to a recipient who has not requested or invited the message. For purposes of this provision, merely making one's e-mail address accessible to the public shall not constitute a request or invitation to receive messages.
+
+2.3.1.3. Member specifically agrees that he/she/it will not utilize the EarthLink Network(R) service, EarthLink Network's(R) equipment or any EarthLink Network(R) electronic mail address in connection with the transmission of the same or substantially similar unsolicited message to 50 or more recipients or 15 or more newsgroups in a single day. For each day upon which this provision is violated, Member agrees to pay EarthLink Network(R) $10.00 per day for an unintentional violation of this provision, but where warranted, such as in the case of an accidental transmission, EarthLink Network(R) may waive all or part of the applicable charge. In cases of willful violations of this provision, Member agrees to pay EarthLink Network(R) $200.00 per day. EarthLink Network(R) at its sole discretion shall determine whether such a violation was unintentional or willful.  Payment by member under this provision shall not prevent EarthLink Network(R) from seeking to obtain other legal remedies a
+gainst member, including other damages or an injunction.
+
+2.4. Revealing your account password to others or allowing use of your account by others (other than authorized users in your household). 
+
+2.4.1. At no time can there be simultaneous use of the same username and password combination on more than one computer.
+
+2.5. Forging any message header, in part or whole, of any electronic transmission, originating or passing through EarthLink services.
+
+2.6. Distributing viruses to or from EarthLink systems.
+
+2.7. Use of software or any device that would allow your account to stay logged on while you are not actively using EarthLink services or use the account for the purpose of operating a server of any type.
+
+2.8. Cross-posting advertisements for products, items, or services to ten (10) or more unrelated USENET newsgroups.
+
+2.9. Posting articles to any USENET or other newsgroup, mailing list or similar forum which are off-topic according to the charter or other public statement of the forum.
+
+2.10. Disrupting any newsgroup with frivolous, excessively vulgar, or repetitious postings.
+
+2.11. Posting of binary, or excessively large, unrelated text files to non-binary news groups that have specifically requested such material not be posted in the group's FAQ (Frequently Asked Questions).
+
+2.12. Installation of 'auto-responders', 'cancel-bots' or similar automated or manual routines which generate excessive amounts of net traffic, or disrupt net newsgroups or email use by others.
+
+2.13. Engaging in any of the above activities using the service of another provider but channeling such activities through an EarthLink account or re-mailer, or using an EarthLink account as a mail drop for responses.
+
+3.	EarthLink Assumes No Liability
+
+EarthLink has no practical ability to restrict all conduct, communications or content which might violate this Policy prior to its transmission on EarthLink's systems, nor can EarthLink ensure prompt removal of any such communications or content after transmission or posting. Accordingly, EarthLink does not assume liability to subscribers or others for any failure to enforce the terms of this Policy.
+
+4.	Revisions to this Policy
+
+EarthLink reserves the right to modify this Policy at any time upon at least thirty (30) days prior notice.  Notice of modifications to this Policy may be given to subscribers by posting such changes to the EarthLink homepage (http://www.earthlink.net), by electronic mail, or by conventional mail.
+	
+
+
+
+
+
